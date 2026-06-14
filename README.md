@@ -13,4 +13,4 @@ Instead of classifying *identity titles* (which can be lied about), this archite
 ## 🛠️ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/behavioral-ai-resume-ranker.git](https://github.com/YOUR_GITHUB_USERNAME/behavioral-ai-resume-ranker.git)
+   git clone [https://github.com/abhinavavkr/behavioral-ai-resume-ranker.git](https://github.com/abhinavavkr/behavioral-ai-resume-ranker.git)
